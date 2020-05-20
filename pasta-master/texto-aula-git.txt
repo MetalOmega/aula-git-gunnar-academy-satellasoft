@@ -1,1 +1,1 @@
-texto teste aula git pasta master
+Apagando texto, inserindo conteúdo e salvando arquivo.
